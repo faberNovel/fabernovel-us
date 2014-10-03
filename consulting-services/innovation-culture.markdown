@@ -16,15 +16,12 @@ FABERNOVEL believes the answer lies in having the following four key elements wo
 
 1. **Formally establish innovation as a strategic imperative of leadership** – enabling a structure and governance that supports innovation.
 
-2. **Enable internal collaboration** – creating an open environment that can source ideas and best practices, instill transparency on goings-on, and coordinate cross-functional teams early and often. 
+2. **Enable internal collaboration** – creating an open environment that can source ideas and best practices, instill transparency on goings-on, and coordinate cross-functional teams early and often.  
+  See our [case studies for enabling internal collaboration](#). 
 
-See our [case studies for enabling internal collaboration](#). 
+3. **Leverage the external community** – going outside company walls to source new ideas and create ambassadors for your brand.  
+  See our [case studies for developing deep external insights](#).
 
-3. **Leverage the external community** – going outside company walls to source new ideas and create ambassadors for your brand. 
-
-See our [case studies for developing deep external insights](#).
-
-4. **Prototype new ideas to solve key business issues** – testing market viability is critical to launching any new idea; a safe platform for piloting will increase long-term ROI while allowing team members to be hands-on in the process. 
-
-See our [case studies for prototyping new ideas](#). 
+4. **Prototype new ideas to solve key business issues** – testing market viability is critical to launching any new idea; a safe platform for piloting will increase long-term ROI while allowing team members to be hands-on in the process.  
+  See our [case studies for prototyping new ideas](#). 
 
