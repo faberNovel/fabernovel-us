@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="jumbotron">
+<div class="jumbotron banner-{{ page.slug }}">
   <div class="container">
     <h1>{{ page.title }}</h1>
     <p class="dark-bg">{{ page.tagline }}</p>
@@ -22,13 +22,13 @@ layout: default
 					<img src="{{ site.baseurl }}/img/JasonWolenik_circle.png" class="contact-img">
 					<p class="contact-name">Jason Wolenik</p>
 					<p class="contact-title">Managing Director</p>
-					<p><a href="{{ site.baseurl }}/contact/" class="contact-button">Contact Jason</a></p>
+					<p><a href="{{ site.baseurl }}/contact-us/" class="contact-button">Contact Jason</a></p>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="col-md-12">
-					<h2>We also help our client with...</h2>
+					<h2>We also help our clients with...</h2>
 				</div>
 			</div>
 			{% unless page.slug == "driving-new-growth" %}
