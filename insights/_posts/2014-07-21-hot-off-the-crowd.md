@@ -5,7 +5,7 @@ author: "Stéphane Distinguin"
 category: insights
 tags:
 - retail
-- innovation-culture
+- instilling-a-culture-of-innovation
 - article
 img: "img/articles/hotofthecrowd.png"
 published: true

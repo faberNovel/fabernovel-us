@@ -513,6 +513,21 @@ footer .fb-like{
 }
 
 /* Home */
+
+#hero-call-to-action{
+  cursor: pointer;
+}
+#challenges{
+  list-style-type: none;
+  padding-left: 0;
+  display: none;
+}
+#challenges li{
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
 .highlights-vertical-box{
   min-height: 500px;
   border-left:2px solid #f4f4f4;

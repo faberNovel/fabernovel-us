@@ -1,7 +1,7 @@
 ---
 layout: industries
 title: "Retail Industry"
-tagline: ""
+tagline: "Innovate to reach consumers in the new digital age."
 slug: "retail"
 permalink: /industries/retail/
 clients: 

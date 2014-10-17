@@ -1,9 +1,9 @@
 ---
 layout: services
-title: "Innovation Culture"
-tagline: ""
-slug: "innovation-culture"
-permalink: /consulting-services/innovation-culture/
+title: "Instilling a Culture of Innovation"
+tagline: "Transform the culture of your organization and realize new ideas."
+slug: "instilling-a-culture-of-innovation"
+permalink: /consulting-services/instilling-a-culture-of-innovation/
 ---
 
 Industry landscapes are changing faster than ever. Competition can come from all angles. Attracting and keeping good talent is increasingly challenging. 

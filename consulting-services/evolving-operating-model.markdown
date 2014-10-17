@@ -1,9 +1,9 @@
 ---
 layout: services
-title: "Evolve the Operating Model"
+title: "Evolving the Operating Model"
 tagline: "Realize new levels of internal efficiencies to exponentially grow the bottom line."
-slug: "evolve-operating-model"
-permalink: /consulting-services/evolve-operating-model/
+slug: "evolving-operating-model"
+permalink: /consulting-services/evolving-operating-model/
 ---
 
 
@@ -11,7 +11,7 @@ Innovation is just as important for internal functions as customer-facing activi
 
 Successfully capturing internal innovation requires challenging established business models and identifying new ways to grow and improve capabilities- from knowledge sharing to supply chain management. 
 
-**How can an organization evolve the operating model to achieve efficiency, speed and flexibility required in today’s marketplace?**
+**How can an organization evolving the operating model to achieve efficiency, speed and flexibility required in today’s marketplace?**
 
 FABERNOVEL believes there is a five-step process to defining and prototyping new, scalable operating models: 
 
