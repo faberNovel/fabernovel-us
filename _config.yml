@@ -1,7 +1,7 @@
 # Site settings
-title: FABERNOVEL US
+title: "FABERNOVEL, Inc. - Innovation Agency in San Francisco"
 email: it@parisoma.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "The innovation agency FABERNOVEL combines technology, design and emerging trends to invent new products, services and experiences. We help world leading companies to build growth at startup speed. Every day we bring entrepreneurs and large company experts together every day to launch breakthrough customer experiences."
 baseurl: ""
 url: "http://www.fabernovel.us"
 twitter_username: fabernovel_us
