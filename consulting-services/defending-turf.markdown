@@ -22,6 +22,6 @@ FABERNOVEL believes there is a four-step process to ensuring or regaining compet
 
 4. **Define the Future Competitive Advantage** – How and when to pivot with the market 
 
-See our [case studies on defending turf](#).
+See our below our case studies on defending turf.
 
 

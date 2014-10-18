@@ -26,5 +26,5 @@ FABERNOVEL believes there is a five-step process to defining and prototyping new
 5. **Prototype solution and scale** – Practice, learn, and then launch 
 
 
-See our [case studies for evolving the operating model](#). 
+See our below our case studies for evolving the operating model. 
 

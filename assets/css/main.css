@@ -38,8 +38,21 @@ a.action-button:hover{
 .fabernovel-border-left{
   border-left:2px solid #f4f4f4;
 }
+.fabernovel-border-right{
+  border-right:2px solid #f4f4f4;
+}
 .fabernovel-border-bottom{
   border-bottom:2px solid #f4f4f4;
+}
+.fabernovel-border-top{
+  border-top:2px solid #f4f4f4;
+}
+
+.margin-top-20{
+  margin-top: 20px;
+}
+.margin-top-40{
+  margin-top: 40px;
 }
 
 .padding-top-20{
@@ -397,6 +410,11 @@ header:hover #nav-menu a{
 .banner-high-tech,
 .banner-public-sector{
   background: url("../../img/industries-banner.jpg") no-repeat left center;
+  background-size: cover;
+}
+
+.banner-case-study{
+  background: url("../../img/industries-banner.jpg") no-repeat left top;
   background-size: cover;
 }
 
@@ -806,4 +824,39 @@ a.contact-button:hover{
 }
 .contact-card .contact-info li a:hover{
   color:#53da3f;
+}
+
+
+/* GREY BOXES */
+.case-studies-cards{
+  padding:15px;
+}
+.case-studies-cards .inner{
+  background-color: #efefef;
+  width: 100%;
+  padding: 10px 20px;
+}
+
+.case-studies-cards .inner a{
+  position: absolute;
+  right:40px;
+  top:45px;
+  font-size: 20px;
+}
+
+
+.grey-blocks{
+  padding:15px;
+}
+.grey-blocks .inner{
+  background-color: #efefef;
+  width: 100%;
+  height: 200px;
+  padding: 10px 20px;
+}
+
+.grey-blocks .inner a{
+  position: absolute;
+  bottom:40px;
+  font-size: 20px;
 }

@@ -2,30 +2,23 @@
 layout: default
 ---
 
-<div class="jumbotron banner-about">
+<div class="jumbotron banner-case-study">
   <div class="container">
-    <h1>About Us - {{ page.title }}</h1>
+    <h1>{{ page.client }}</h1>
+    <p>{{ page.subtitle }}</p>
   </div>
 </div>
 
 
 <div class="container">
-	
-	<div class="row border-row">
-		<div class="col-md-3 padding-top-40">
-			<ul class="about-nav">
-				<li><a href="{{ site.baseurl }}/about/company/" {% if page.title == "Our Company" %}class="active"{% endif %}>Our company</a></li>
-	            <li><a href="{{ site.baseurl }}/about/history/" {% if page.title == "History" %}class="active"{% endif %}>History</a></li>
-	            <li><a href="{{ site.baseurl }}/about/team/" {% if page.title == "Team" %}class="active"{% endif %}>Team</a></li>
-	            <li><a href="{{ site.baseurl }}/about/careers/" {% if page.title == "Careers" %}class="active"{% endif %}>Careers</a></li>
-			</ul>
-		</div>
-		<div class="col-md-6 padding-top-20 fabernovel-border-right">
+  
+  <div class="row border-row">
+    <div class="col-md-9 padding-top-20 fabernovel-border-right">
 			
 				{{ content }}
 			
-			<div class="row fabernovel-border-top margin-top-40">
-				<div class="col-md-12"><h2>We help our clients with</h2></div>
+		<div class="row fabernovel-border-top margin-top-40">
+				<div class="col-md-12"><h2>See what we can do for you</h2></div>
 				<div class="col-md-6 grey-blocks">
 					<div class="inner">
 						<h4>Driving New Growth</h4><p>Grow your business beyond what’s expected.</p><a class="plus-button" href="{{ site.baseurl }}/consulting-services/driving-new-growth/">+</a></div></div>
@@ -39,7 +32,7 @@ layout: default
 					<div class="inner">
 						<h4>Instilling a Culture of Innovation</h4><p>Transform the culture of your organization and realize new ideas.</p><a class="plus-button" href="{{ site.baseurl }}/consulting-services/instilling-a-culture-of-innovation/">+</a></div>
 				</div>
-			</div>
+		</div>
 		</div>
 		<div class="col-md-3 padding-top-40">
 			<div class="row">
@@ -53,8 +46,5 @@ layout: default
 
 		</div>
 	</div>
-
-
-
-
+  </div>
 </div>
