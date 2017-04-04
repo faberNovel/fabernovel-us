@@ -46,18 +46,13 @@ layout: default
       {% endfor %}
     </div>
     <div class="col-md-3 highlights-vertical-box padding-top-20">
-      <h3>Our latest White Paper</h3>
-      {% for post in site.categories.insights %}
-            {% for tag in post.tags %}
-              {% if tag == "White Paper" %}
-                <center><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/{{ post.img }}" style="width:100%;height:auto;"></a></center>
-                <p class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
-                <p class="post-excerpt">{{ post.excerpt }}</p>
-                <p><a href="{{ site.baseurl }}{{ post.url }}" class="link-more">Read more</a></p>
-                {% break %}
-              {% endif %}
-            {% endfor %}
-      {% endfor %}
+      <h3>Read our research on AI</h3>
+     
+                <center><a href="https://en.fabernovel.com/insights/stories/artificial-intelligence-2" target="_blank"><img src="{{ site.baseurl }}/img/artificial-intelligence-cover.png" style="width:100%;height:auto;"></a></center>
+                <p class="post-title"><a href="https://en.fabernovel.com/insights/stories/artificial-intelligence-2" target="_blank">AI's New New Age</a></p>
+                <p class="post-excerpt">In 2017, artificial intelligence is on everyone’s lips, fueling both hopes of tremendous economic opportunities and existential questions for the future of humanity. Is the current enthusiasm just a new frenzy, or does it mark the dawn of a new era?</p>
+                <p><a href="https://en.fabernovel.com/insights/stories/artificial-intelligence-2" target="_blank" class="link-more">Read more</a></p>
+
     </div>
   </div>
 

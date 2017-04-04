@@ -5,6 +5,15 @@ slug: "sitemap"
 permalink: /sitemap/
 ---
 
+#Other Fabernovel Group websites
+* [Fabernovel Group (France)](http://www.fabernovel.com/)
+* [Applidium (France)](http://applidium.com/)
+* [Fabernovel Code (France)](http://code.fabernovel.com/)
+* [Fabernovel Data & Media (France)](http://data-media.fabernovel.fr/)
+* [Fabernovel Innovate (France)](http://innovate.fabernovel.com/)
+* [Fabernovel Institute (France)](http://institute.fabernovel.com/)
+* [PARISOMA (San Francisco)](http://www.parisoma.com/)
+* [Velvet Group (China)](http://www.velvetgroup.com/)
 
 #About Us
 * [Company information]({{ site.baseurl }}/about/company/)
@@ -19,17 +28,11 @@ permalink: /sitemap/
 * [Evolving the Operating Model]({{ site.baseurl }}/consulting-services/evolving-operating-model/)
 * [Instilling a Culture of Innovation]({{ site.baseurl }}/consulting-services/instilling-a-culture-of-innovation/)
 
-#Industries
-* [Transportation Industry]({{ site.baseurl }}/industries/transportation/)
-* [Retail Industry]({{ site.baseurl }}/industries/retail/)
-* [Financial Services]({{ site.baseurl }}/industries/financial-services/)
-* [Healthcare Industry]({{ site.baseurl }}/industries/healthcare/)
-* [High-Tech Industry]({{ site.baseurl }}/industries/high-tech/)
-* [Public Sector]({{ site.baseurl }}/industries/public-sector/)
-
+#Online Marketing
+* [Data & Online Marketing]({{ site.baseurl }}/online-marketing/)
 
 #Insights
-* [Our Insights (Our Blog)]({{ site.baseurl }}/industries/insights/)
+* [Our Insights (Our Blog)](https://en.fabernovel.com/insights)
 
 
 #Meta

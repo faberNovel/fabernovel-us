@@ -139,7 +139,7 @@ header ul{
 }
 
 .logo{
-  padding-top: 16px;
+  padding-top: 11px;
   float: left;
   display: block;
   position: relative;
@@ -384,6 +384,14 @@ header:hover #nav-menu a{
   background-size: cover;
 }
 
+.banner-online-marketing{
+  background: url("../../img/dm-banner-ok.jpg") no-repeat left top;
+  background-size: cover;
+}
+.banner-online-marketing h1{
+  text-shadow: 0px 0px 20px black;
+}
+
 
 .banner-insights{
   background: url("../../img/insights-banner.jpg") no-repeat left top;
@@ -530,6 +538,7 @@ footer .fabernovel-group{
 }
 footer .fabernovel-group img{
   margin-left: 10px;
+  margin-top:-5px;
 }
 /* Social plugins */
 footer .share-title{
