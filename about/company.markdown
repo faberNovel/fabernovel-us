@@ -4,26 +4,9 @@ title: "Our Company"
 permalink: /about/company/
 ---
 
-##Our mission
+Fabernovel is a global innovation agency committed to empowering companies to create a lasting cultural shift and knowledge base to act upon. We bring the thought leadership of a consultancy, the creativity of an advertising agency and problem solving strength of a technology company. We work tirelessly to bring the benefits of change to corporations, startups, and teams who want to create market impact with digital technology to win.
 
-**We craft the future of your industries. At startup speed.**
+Founded in 2003 by visionary entrepreneur, Stephane Distinguin, Fabernovel’s team of world-class thinkers, technologists, designers and data scientists are considered pioneers in the field of digital transformation worldwide. In tandem with our clients, we purposefully rethink older strategies and design, conceive and execute innovative solutions.
 
-The innovation agency FABERNOVEL combines **technology, design and emerging trends** to invent new products, services and experiences. 
+From six offices globally we help clients across many business sectors including culture, media & telecommunications, energy & utilities, healthcare, insurance & banking, luxury, retail & consumer goods and transportation.
 
-We help world leading companies to **build growth at startup speed**. 
-Every day we bring entrepreneurs and large company experts together every day to launch breakthrough customer experiences. 
-
-
-##Our values
-
-**Customer Centric: FABERNOVEL is customer experience obsessed.**
-Our agility and speed are contagious.
-
-**Smart & Fast Execution: we lead an industry that waits for no one.**
-We engage the latest technologies, grab coffee with thougt leaders and leverage social media for answers. We run real-time experiments within our own community . Come to us for actual solutions, not just slides.
-
-**Real-Life Insights: Insights from the Front Line Fuel our work.**
-PARISOMA, our open incubator, houses over 60 startups. We’ve started some, funded some and we support them all. We’re a destination for design, tech and entrepreneurship thought leaders. 
-
-**Global Talent Pool: we assemble the perfect team to maximize impact.**
-Our core team spans business, technology and design experts working together in an entrepreneur’s mode. We leverage our network of experts from around the world to bring the ideal, cutting edge skills to your project. 

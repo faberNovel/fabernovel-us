@@ -17,7 +17,7 @@ layout: default
 			
 			{{ content }}
 			
-			<div class="row fabernovel-border-top margin-top-40">
+<!-- 			<div class="row fabernovel-border-top margin-top-40">
 				<div class="col-md-12"><h2>Related case studies</h2></div>
 				{% for post in site.categories.case-studies %}
 					{% if post.service == page.slug %}
@@ -28,7 +28,7 @@ layout: default
 						</div>
 					{% endif %}
 				{% endfor %}
-			</div>
+			</div> -->
 		</div>
 		<div class="col-md-3 padding-top-40 sidebar">
 			<div class="row">
@@ -45,50 +45,40 @@ layout: default
 					<h2>We also help our clients with...</h2>
 				</div>
 			</div>
-			{% unless page.slug == "driving-new-growth" %}
+			{% unless page.slug == "learning-expeditions" %}
 			<div class="row">
 				<div class="col-md-12">
 					<p>
-						<h4>Driving New Growth</h4>
-						Grow your business beyond what’s expected. 
+						<h4>Learning Expeditions</h4>
+						Network. Experience. Commune 
 					</p>
-					<p><a href="{{ site.baseurl }}/consulting-services/driving-new-growth/">Learn more</a></p>
+					<p><a href="{{ site.baseurl }}/consulting-services/learning-expeditions/">Learn more</a></p>
 				</div>
 			</div>
 			{% endunless %}
-			{% unless page.slug == "defending-turf" %}
+			{% unless page.slug == "digital-academy" %}
 			<div class="row">
 				<div class="col-md-12">
 					<p>
-						<h4>Defending Turf</h4>
-						Defending turf requires a strategic pivot from the traditional business model. 
+						<h4>Digital Academy</h4>
+						Build an ongoing knowledge base.
 					</p>
-					<p><a href="{{ site.baseurl }}/consulting-services/defending-turf/">Learn more</a></p>
+					<p><a href="{{ site.baseurl }}/consulting-services/digital-academy/">Learn more</a></p>
 				</div>
 			</div>
 			{% endunless %}
-			{% unless page.slug == "evolving-operating-model" %}
+			{% unless page.slug == "strategy-consulting" %}
 			<div class="row">
 				<div class="col-md-12">
 					<p>
-						<h4>Evolving the Operating Model</h4>
-						Realize new levels of internal efficiencies to exponentially grow the bottom line.
+						<h4>Strategy Consulting</h4>
+						Identify. Prioritize. Execute.
 					</p>
-					<p><a href="{{ site.baseurl }}/consulting-services/evolving-operating-model/">Learn more</a></p>
+					<p><a href="{{ site.baseurl }}/consulting-services/strategy-consulting/">Learn more</a></p>
 				</div>
 			</div>
 			{% endunless %}
-			{% unless page.slug == "instilling-a-culture-of-innovation" %}
-			<div class="row">
-				<div class="col-md-12">
-					<p>
-						<h4>Instilling a Culture of Innovation</h4>
-						Transform the culture of your organization and realize new ideas. 
-					</p>
-					<p><a href="{{ site.baseurl }}/consulting-services/instilling-a-culture-of-innovation/">Learn more</a></p>
-				</div>
-			</div>
-			{% endunless %}
+
 
 		</div>
 	</div>

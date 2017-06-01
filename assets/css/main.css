@@ -403,10 +403,9 @@ header:hover #nav-menu a{
   background-size: cover;
 }
 
-.banner-driving-new-growth,
-.banner-defending-turf,
-.banner-evolving-operating-model,
-.banner-instilling-a-culture-of-innovation{
+.banner-learning-expeditions,
+.banner-digital-academy,
+.banner-strategy-consulting{
   background: url("../../img/services-banner.jpg") no-repeat left center;
   background-size: cover;
 }
