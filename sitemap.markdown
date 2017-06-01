@@ -17,16 +17,17 @@ permalink: /sitemap/
 
 #About Us
 * [Company information]({{ site.baseurl }}/about/company/)
-* [Company history]({{ site.baseurl }}/about/history/)
+* [Company mission and philosophy]({{ site.baseurl }}/about/mission/)
+* [Parisoma]({{ site.baseurl }}/about/parisoma/)
 * [Team]({{ site.baseurl }}/about/team/)
 * [Careers]({{ site.baseurl }}/about/careers/)
 
 
 #Consulting Services
-* [Driving New Growth]({{ site.baseurl }}/consulting-services/driving-new-growth/)
-* [Defending Turf]({{ site.baseurl }}/consulting-services/defending-turf/)
-* [Evolving the Operating Model]({{ site.baseurl }}/consulting-services/evolving-operating-model/)
-* [Instilling a Culture of Innovation]({{ site.baseurl }}/consulting-services/instilling-a-culture-of-innovation/)
+* [Learning Expeditions]({{ site.baseurl }}/consulting-services/learning-expeditions/)
+* [Digital Academy]({{ site.baseurl }}/consulting-services/digital-academy/)
+* [Strategy Consulting]({{ site.baseurl }}/consulting-services/strategy-consulting/)
+
 
 #Online Marketing
 * [Data & Online Marketing]({{ site.baseurl }}/online-marketing/)
