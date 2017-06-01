@@ -4,12 +4,16 @@ title: "Careers"
 permalink: /about/careers/
 ---
 
-##The talents we’re looking for
+FABERNOVEL’s US team is small and growing fast, so your work with us will have a real impact. 
 
-Technophile, Curious, Precise and open-minded, you should have a solid tech, design and business culture, as well as a strong interest in the startup scene.
+FABERNOVEL provides an opportunity to work in a high-energy co-working space surrounded by amazing people and the ability to participate in events on a variety of innovation topics.
 
-You should be collaborative and team-spirited, but self-driven, entrepreneurial, highly organized and rigorous. You are able to work autonomously and bring together a team around your project when needed.
+We are looking for talented people who are passionate about digital technologies and innovation and who have a strong interest in the entrepreneurial community. 
+	
+In order to be happy and successful at Fabernovel, you will need to share the company’s cultural values of curiosity, connection, entrepreneurship, uniqueness and drive to discover and succeed.
 
-You are curious about new technologies: you like getting into the code, and you want to understand how stuff works and create your own!
+Our team embraces the challenges to create solutions together with their colleagues. You will constantly learn new things, participate in Silicon Valley’s ecosystem and gain useful experience.
 
-Interested in working at FABERNOVEL? Contact [meet_sf@fabernovel.com](mailto:meet_sf@fabernovel.com)
+And most importantly, you will enjoy the fun that we have - from Friday breakfasts to quarterly offsites.  
+
+Interested in working at FABERNOVEL? Contact recruitment_us@fabernovel.com

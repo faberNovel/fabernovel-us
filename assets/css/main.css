@@ -3,7 +3,7 @@
 
 a.plus-button{
   color:white;
-  background-color:#53da3f;
+  background-color:#8431a6;
   padding: 0 8px;
   margin-left: 10px;
   border-radius: 20px; 
@@ -17,7 +17,7 @@ a.action-button{
   color:white;
   font-size: 16px;
   font-weight: 400;
-  background-color:#53da3f;
+  background-color:#8431a6;
   padding: 10px 20px;
   border-radius: 30px; 
   text-transform: uppercase;
@@ -86,7 +86,7 @@ a.link-more{
   font-size: 12px;
 }
 a.link-more:hover{
-  color:#53da3f;
+  color:#8431a6;
 }
 
 a.link-more:after{
@@ -95,7 +95,7 @@ a.link-more:after{
   font-style: normal;
   font-weight: normal;
   text-decoration: inherit;
-  color:#53da3f;
+  color:#8431a6;
   font-size: 16px;
   position: relative;
   top:1px;
@@ -139,7 +139,7 @@ header ul{
 }
 
 .logo{
-  padding-top: 11px;
+  padding-top: 0px;
   float: left;
   display: block;
   position: relative;
@@ -176,7 +176,7 @@ header ul{
   padding-top: 2px;
 }
 #region-selector a:hover{
-  color: #53da3f;
+  color: #8431a6;
 }
 
 
@@ -215,11 +215,11 @@ header ul{
 }
 
 #nav-menu li a.notree:hover{
-  color:#53da3f;
+  color:#8431a6;
 }
 
 #nav-menu ul li a:hover{
-  color:#53da3f;
+  color:#8431a6;
 }
 
 
@@ -230,7 +230,7 @@ header ul{
    margin-top: 0px;
    visibility: hidden;
    height: 0px;
-   border-bottom:3px solid #53da3f;
+   border-bottom:3px solid #8431a6;
   
 }
 .nav-selector-icon{
@@ -276,7 +276,7 @@ header:hover #nav-menu a{
 
 
 #nav-menu li:hover .nav-selector-icon{
-  color:#53da3f;
+  color:#8431a6;
 }
 
 
@@ -295,8 +295,8 @@ header:hover #nav-menu a{
 }
 
 .navbar-toggle:hover{
-  background-color: #53da3f;
-  border-color: #53da3f;
+  background-color: #8431a6;
+  border-color: #8431a6;
 }
 
 .navbar-toggle:hover > .icon-bar, .navbar-toggle:focus > .icon-bar {
@@ -304,8 +304,8 @@ header:hover #nav-menu a{
 }
 
 .navbar-toggle:focus{
-  background-color: #53da3f;
-  border-color: #53da3f;
+  background-color: #8431a6;
+  border-color: #8431a6;
 }
 
 
@@ -335,7 +335,7 @@ header:hover #nav-menu a{
   color:rgb(37,37,37);
 }
 #stacked-menu a:hover{
-  color:#53da3f;
+  color:#8431a6;
 }
 
 #stacked-menu a.stacked-menu-title{
@@ -481,7 +481,7 @@ footer .footer-menu li a{
 }
 
 footer .footer-menu li a:hover{
-  color:#53da3f;
+  color:#8431a6;
   text-decoration: none;
 }
 
@@ -524,7 +524,7 @@ footer .footer-menu-stacked li a{
 }
 
 footer .footer-menu-stacked li a:hover{
-  color:#53da3f;
+  color:#8431a6;
   text-decoration: none;
 }
 
@@ -751,10 +751,10 @@ article .article-thumbnail img{
   font-size: 12px;
 }
 .about-nav a:hover{
-  color:#53da3f;
+  color:#8431a6;
 }
 .about-nav a.active{
-  color:#53da3f;
+  color:#8431a6;
   border:2px solid rgb(37,37,37);
   border-radius: 20px;
   padding: 3px 10px;
@@ -784,7 +784,7 @@ a.contact-button{
   color:white;
   font-size: 12px;
   font-weight: 600;
-  background-color: #53da3f;
+  background-color: #8431a6;
   border-radius: 20px;
   padding: 7px 20px;
   text-transform: uppercase;
@@ -831,7 +831,7 @@ a.contact-button:hover{
   color:rgb(37,37,37);
 }
 .contact-card .contact-info li a:hover{
-  color:#53da3f;
+  color:#8431a6;
 }
 
 
